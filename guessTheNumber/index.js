@@ -29,3 +29,4 @@ subt.addEventListener('click', function (e) {
         output.innerHTML = "Chances Over!"
     }
 })
+
